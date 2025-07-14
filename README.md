@@ -84,8 +84,6 @@ cycle = posa.find_hamiltonian_cycle_multiple_attempts(num_attempts=50, max_itera
 
 ### Uso Básico - Algoritmo Backtracking
 
-### Uso Básico - Algoritmo Backtracking
-
 ``` python
 from backtracking_algorithm import BacktrackingAlgorithm
 from posa_algorithm import Graph
